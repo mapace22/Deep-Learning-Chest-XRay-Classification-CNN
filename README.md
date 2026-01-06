@@ -24,9 +24,6 @@ The model achieved an accuracy of **82.37%** on the validation set. Below are th
 ### 3. CNN Architecture
 ![Model Summary](img/cnnarchitecture.png)
 
-### 4. Diagram - CNN
-![Diagram](img/diagram.jpg)
-
 
 ## 📊 Performance & Results
 - **Target:** >80% Accuracy.
